@@ -1,17 +1,17 @@
-# 👋 Hola, soy Eduardo Roa
+# 👋 Hi, I'm Eduardo Roa
 
-**Senior Full-Stack Architect & Developer | Creador de Soluciones Web Eficientes**
+**Senior Full-Stack Architect & Developer | Creator of Efficient Web Solutions**
 
-Me especializo en diseñar y construir plataformas robustas, escalables y orientadas a resultados. Tengo un fuerte enfoque en el desarrollo de arquitecturas SaaS, plataformas EdTech y herramientas *open-source*. 
+I specialize in designing and building robust, scalable, and results-oriented platforms. I have a strong focus on developing SaaS architectures, EdTech platforms, and open-source tools. 
 
-Actualmente me dedico a liderar el desarrollo y la infraestructura de aplicaciones modernas, optimizando procesos desde el código hasta el servidor.
+Currently, I am dedicated to leading the development and infrastructure of modern applications, optimizing processes from the code to the server.
 
 ---
 
-### 🚀 Proyectos Destacados
-* 🛠️ **PyBuilderWeb:** Creador y mantenedor de este generador de sitios estáticos *no-code* construido con Python y Tkinter.
-* 🌐 **Plataformas Web:** Migración y optimización SEO de arquitecturas hacia Next.js para plataformas educativas de alto tráfico.
-* ⚙️ **Infraestructura:** Gestión de despliegues automatizados, configuración de servidores Nginx, y contenedores con Docker y AWS.
+### 🚀 Featured Projects
+* 🛠️ **PyBuilderWeb:** Creator and maintainer of this no-code static site generator built with Python and Tkinter.
+* 🌐 **Web Platforms:** Migration and SEO optimization of architectures to Next.js for high-traffic educational platforms.
+* ⚙️ **Infrastructure:** Management of automated deployments, Nginx server configuration, and containerization with Docker and AWS.
 
 ---
 
@@ -27,7 +27,7 @@ Actualmente me dedico a liderar el desarrollo y la infraestructura de aplicacion
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Backend & Bases de Datos
+## Backend & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -38,7 +38,7 @@ Actualmente me dedico a liderar el desarrollo y la infraestructura de aplicacion
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## DevOps, Infraestructura & Herramientas
+## DevOps, Infrastructure & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -54,11 +54,11 @@ Actualmente me dedico a liderar el desarrollo y la infraestructura de aplicacion
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardoroa22&theme=dark)](https://git.io/streak-stats)
 
-<!-- Trophies comentados temporalmente por errores de API
+<!-- Trophies temporarily commented out due to API errors
 [![trophy](https://github-profile-trophy.vercel.app/?username=eduardoroa22&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
 ---
 
-📫 **Conéctate conmigo:**
-* 🌐 [Portafolio Web](https://eduardoroa.codes/)
+📫 **Connect with me:**
+* 🌐 [Web Portfolio](https://eduardoroa.codes/)
