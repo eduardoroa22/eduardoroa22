@@ -1,64 +1,65 @@
-# 👋 Hi, I'm Eduardo Roa
+# Eduardo Roa
 
-**Senior Full-Stack Architect & Developer | Creator of Efficient Web Solutions**
+Full-stack developer in Bogotá. I build and maintain **production** sites and small web products: WordPress, Next.js, Laravel, and Django.
 
-I specialize in designing and building robust, scalable, and results-oriented platforms. I have a strong focus on developing SaaS architectures, EdTech platforms, and open-source tools. 
+[Portfolio](https://eduardoroa.codes/) · [Upwork](https://www.upwork.com/freelancers/eduardoroafullstack) · [PuzzleLetras](https://puzzleletras.com) · [Inglés Bien Hablado](https://inglesbienhablado.com)
 
-Currently, I am dedicated to leading the development and infrastructure of modern applications, optimizing processes from the code to the server.
-
----
-
-### 🚀 Featured Projects
-* 🛠️ **PyBuilderWeb:** Creator and maintainer of this no-code static site generator built with Python and Tkinter.
-* 🌐 **Web Platforms:** Migration and SEO optimization of architectures to Next.js for high-traffic educational platforms.
-* ⚙️ **Infrastructure:** Management of automated deployments, Nginx server configuration, and containerization with Docker and AWS.
+I use Cursor, Claude Code, and Copilot to move fast. I review and test before anything ships.
 
 ---
 
-### 🧠 Tech Stack
+## Live products
 
-## Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **[PuzzleLetras](https://puzzleletras.com)** — word games (crosswords, word search, creator). Next.js + technical SEO. I still run it.
+- **[Inglés Bien Hablado](https://inglesbienhablado.com)** — EdTech: audio, synced transcript, exercises, paid access.
+- **[Crucigramas y Sopas](https://play.google.com/store/apps/details?id=com.puzzleletras.crucigramas)** — Android app on Google Play.
 
-## Backend & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## DevOps, Infrastructure & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+Client work is under NDA. New projects go through [Upwork](https://www.upwork.com/freelancers/eduardoroafullstack).
 
 ---
 
-### 📊 GitHub Stats
+## What I take on
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardoroa22&theme=dark)](https://git.io/streak-stats)
-
-<!-- Trophies temporarily commented out due to API errors
-[![trophy](https://github-profile-trophy.vercel.app/?username=eduardoroa22&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
--->
+- WordPress / PHP — WooCommerce, Multisite, fixes, PageSpeed, retainers
+- Next.js / React — SSR, on-page SEO, dashboards
+- Laravel or Django — APIs, auth, Stripe, admin
+- DNS, Linux, Nginx, Cloudflare, deploys
 
 ---
 
-📫 **Connect with me:**
-* 🌐 [Web Portfolio](https://eduardoroa.codes/)
+## Stack
+
+**Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Data & infra**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Open source
+
+[next-self-hosted-deploy](https://github.com/eduardoroa22/next-self-hosted-deploy) — deploy Next.js on Ubuntu (systemd + Nginx).
+
+---
+
+## Hire
+
+Timezone: Bogotá (EST/CST overlap with the US).
+
+[Hire on Upwork](https://www.upwork.com/freelancers/eduardoroafullstack) · [eduardoroa.codes](https://eduardoroa.codes/)
