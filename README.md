@@ -48,7 +48,7 @@ Client work is under NDA. New projects go through [Upwork](https://www.upwork.co
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Avalonia](https://img.shields.io/badge/Avalonia-8B44AC?style=flat-square&logo=avaloniaui&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia-165BFF?style=flat-square&logo=avaloniaui&logoColor=white)
 
 **Data & infra**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
