@@ -1,6 +1,6 @@
 # Eduardo Roa
 
-Full-stack developer in Bogotá. I build and maintain **production** sites and small web products: WordPress, Next.js, Laravel, and Django.
+Full-stack developer in Bogotá. I build and maintain **production** sites, small web products, and **cross-platform desktop apps**: WordPress, Next.js, Laravel, Django, and C#/C++.
 
 [Portfolio](https://eduardoroa.codes/) · [Upwork](https://www.upwork.com/freelancers/eduardoroafullstack) · [PuzzleLetras](https://puzzleletras.com) · [Inglés Bien Hablado](https://inglesbienhablado.com)
 
@@ -23,6 +23,7 @@ Client work is under NDA. New projects go through [Upwork](https://www.upwork.co
 - WordPress / PHP — WooCommerce, Multisite, fixes, PageSpeed, retainers
 - Next.js / React — SSR, on-page SEO, dashboards
 - Laravel or Django — APIs, auth, Stripe, admin
+- **C# / C++ — cross-platform desktop apps (.NET, Qt), tooling, native integrations**
 - DNS, Linux, Nginx, Cloudflare, deploys
 
 ---
@@ -41,6 +42,12 @@ Client work is under NDA. New projects go through [Upwork](https://www.upwork.co
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Desktop & systems**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 **Data & infra**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
